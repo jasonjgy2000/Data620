@@ -1,4 +1,3 @@
-Id,Label,type,xcoord,ycoord,category,Modularity Class,Eigenvector Centrality,In Degree,Out Degree,Degree,Weighted Degree
 1,Robert C. Allen,person,0.0,0.0,individual,0,0.1708217782071894,0,2,2,2
 2,Philip Ethington,person,0.0,0.0,individual,0,0.11525159594332783,0,2,2,2
 3,Chien-Yi Hou,person,0.0,0.0,individual,0,0.1708217782071894,0,2,2,2
